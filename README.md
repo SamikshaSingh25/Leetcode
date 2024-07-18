@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/SamikshaSingh25/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
