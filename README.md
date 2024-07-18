@@ -1,6 +1,6 @@
 # Leetcode
 
-This Repository was created on 18-07-2024. 
+This Repository was created on 18-07-2024. All the submissions before this date were manually added / submitted by me. Prior to this date I had a streak of 47days and Hopefully it'll keep going. Cheers To the future! 
 <!---LeetCode Topics Start-->
 
 # LeetCode Topics
