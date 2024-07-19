@@ -28,6 +28,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/SamikshaSingh25/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SamikshaSingh25/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/SamikshaSingh25/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/SamikshaSingh25/Leetcode/tree/master/1803-average-waiting-time) |
@@ -84,4 +85,8 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamikshaSingh25/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/SamikshaSingh25/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
