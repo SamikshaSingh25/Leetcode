@@ -10,6 +10,7 @@ This Repository was created on 18-07-2024.
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SamikshaSingh25/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/SamikshaSingh25/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This Repository was created on 18-07-2024.
 | [1803-average-waiting-time](https://github.com/SamikshaSingh25/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamikshaSingh25/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2846-robot-collisions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -42,6 +44,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
+| [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -49,6 +52,7 @@ This Repository was created on 18-07-2024.
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2846-robot-collisions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2846-robot-collisions) |
 ## Binary Search
