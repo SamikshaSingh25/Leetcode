@@ -26,7 +26,7 @@ public:
 
         int min_deletion=n;
         for(int i=0;i<n;i++){
-            min_deletion = min(min_deletion , count_a[i]+count_b[i]);
+            min_deletion = min(min_deletion , abs(count_a[i]+count_b[i]));
         }
         return min_deletion;
     }
