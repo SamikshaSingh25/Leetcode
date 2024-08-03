@@ -33,6 +33,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/SamikshaSingh25/Leetcode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/SamikshaSingh25/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/0948-sort-an-array) |
@@ -104,6 +105,7 @@ This Repository was created on 18-07-2024.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SamikshaSingh25/Leetcode/tree/master/0066-plus-one) |
 | [1642-water-bottles](https://github.com/SamikshaSingh25/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamikshaSingh25/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/SamikshaSingh25/Leetcode/tree/master/2645-pass-the-pillow) |
