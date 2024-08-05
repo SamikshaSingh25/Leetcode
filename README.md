@@ -95,6 +95,7 @@ This Repository was created on 18-07-2024.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SamikshaSingh25/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SamikshaSingh25/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -116,6 +117,7 @@ This Repository was created on 18-07-2024.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamikshaSingh25/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
