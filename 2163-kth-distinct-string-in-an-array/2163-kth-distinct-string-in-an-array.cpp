@@ -1,25 +1,29 @@
 class Solution {
-    public :
+public:
     string kthDistinct(vector<string>& arr, int k) {
         int n = arr.size();
-        vector<string>distinct;
+        vector<string> distinct;
         for(int i=0;i<n;i++){
             string curr = arr[i];
-            bool isdistinct = true;
+            bool isdist = true;
             for(int j=0;j<n;j++){
-                if(i==j) continue;
+                if(i==j){
+                    continue;
+                }
                 if(arr[j]==curr){
-                    isdistinct = false;
+                    isdist=false;
                     break;
                 }
             }
-            if(isdistinct){
+            if(isdist){
                 distinct.push_back(curr);
             }
         }
         if(distinct.size()<k){
             return "";
         }
-        return distinct[k-1];
+        else{
+            return distinct[k-1];
+        }
     }
 };
