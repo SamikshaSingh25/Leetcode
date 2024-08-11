@@ -52,6 +52,7 @@ This Repository was created on 18-07-2024.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SamikshaSingh25/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamikshaSingh25/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/SamikshaSingh25/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SamikshaSingh25/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -147,6 +148,7 @@ This Repository was created on 18-07-2024.
 | [0921-spiral-matrix-iii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SamikshaSingh25/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamikshaSingh25/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Tree
@@ -158,6 +160,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SamikshaSingh25/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +219,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SamikshaSingh25/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -229,4 +233,8 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
