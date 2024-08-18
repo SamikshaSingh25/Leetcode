@@ -76,6 +76,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/SamikshaSingh25/Leetcode/tree/master/0041-first-missing-positive) |
+| [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -136,6 +137,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SamikshaSingh25/Leetcode/tree/master/0066-plus-one) |
+| [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SamikshaSingh25/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/SamikshaSingh25/Leetcode/tree/master/1642-water-bottles) |
@@ -195,6 +197,7 @@ This Repository was created on 18-07-2024.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamikshaSingh25/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -218,6 +221,7 @@ This Repository was created on 18-07-2024.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SamikshaSingh25/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SamikshaSingh25/Leetcode/tree/master/1511-count-number-of-teams) |
