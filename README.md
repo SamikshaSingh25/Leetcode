@@ -286,4 +286,8 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/SamikshaSingh25/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
