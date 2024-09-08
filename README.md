@@ -139,6 +139,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0725-split-linked-list-in-parts](https://github.com/SamikshaSingh25/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/SamikshaSingh25/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SamikshaSingh25/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SamikshaSingh25/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
