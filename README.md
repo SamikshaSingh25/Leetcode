@@ -349,6 +349,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/SamikshaSingh25/Leetcode/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/SamikshaSingh25/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
 | ------- |
