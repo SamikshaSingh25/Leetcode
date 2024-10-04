@@ -6,6 +6,7 @@ This Repository was created on 18-07-2024.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SamikshaSingh25/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/SamikshaSingh25/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamikshaSingh25/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -26,6 +27,7 @@ This Repository was created on 18-07-2024.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaSingh25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaSingh25/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
