@@ -10,6 +10,7 @@ This Repository was created on 18-07-2024.
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SamikshaSingh25/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/SamikshaSingh25/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamikshaSingh25/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SamikshaSingh25/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
@@ -42,6 +43,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamikshaSingh25/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SamikshaSingh25/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2128-reverse-prefix-of-word](https://github.com/SamikshaSingh25/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -107,6 +109,7 @@ This Repository was created on 18-07-2024.
 | [0041-first-missing-positive](https://github.com/SamikshaSingh25/Leetcode/tree/master/0041-first-missing-positive) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SamikshaSingh25/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -335,6 +338,7 @@ This Repository was created on 18-07-2024.
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Union Find
 |  |
