@@ -52,5 +52,7 @@ class Solution {
 
         /* My fault... had to do pollLast() instead of poll() in the last while loop so that i would be popping the last element as well 
         my bad hehe */
+
+        //still beats ONLY 15%?????? and submission length exceeds limit?? WOW
     }
 }
