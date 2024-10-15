@@ -28,6 +28,7 @@ This Repository was created on 18-07-2024.
 | [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SamikshaSingh25/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SamikshaSingh25/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/SamikshaSingh25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -60,6 +61,7 @@ This Repository was created on 18-07-2024.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SamikshaSingh25/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/SamikshaSingh25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
 | ------- |
@@ -185,6 +187,7 @@ This Repository was created on 18-07-2024.
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamikshaSingh25/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SamikshaSingh25/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/SamikshaSingh25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
