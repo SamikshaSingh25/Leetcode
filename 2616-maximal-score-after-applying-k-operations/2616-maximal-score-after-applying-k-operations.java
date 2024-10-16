@@ -19,6 +19,7 @@ class Solution {
         for(int i:nums){
             pq.offer(i);
         }
+        //using long instead of long coz overflow happens oter wise and answer goes in negativ
         long sum=0;
         for(int i=0;i<k;i++){
             int n = pq.poll();
