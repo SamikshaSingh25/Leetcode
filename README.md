@@ -18,6 +18,7 @@ This Repository was created on 18-07-2024.
 | [1197-parsing-a-boolean-expression](https://github.com/SamikshaSingh25/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaSingh25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaSingh25/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SamikshaSingh25/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -92,6 +93,7 @@ This Repository was created on 18-07-2024.
 | [1293-three-consecutive-odds](https://github.com/SamikshaSingh25/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/SamikshaSingh25/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SamikshaSingh25/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaSingh25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaSingh25/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SamikshaSingh25/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/SamikshaSingh25/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -295,6 +297,7 @@ This Repository was created on 18-07-2024.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaSingh25/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SamikshaSingh25/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaSingh25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/SamikshaSingh25/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SamikshaSingh25/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -477,4 +480,8 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamikshaSingh25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaSingh25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
