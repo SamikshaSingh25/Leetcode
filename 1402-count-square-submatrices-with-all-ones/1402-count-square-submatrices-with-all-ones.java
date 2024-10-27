@@ -2,7 +2,7 @@ class Solution {
     public int countSquares(int[][] matrix) {
      int row = matrix.length;
      int col = matrix[0].length;
-     int side = row;
+     int side=row ;
      int count =0;
      for(int s=1;s<=side;s++){
         for(int i = 0;i<row;i++){
