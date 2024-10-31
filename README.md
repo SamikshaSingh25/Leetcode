@@ -128,6 +128,7 @@ This Repository was created on 18-07-2024.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SamikshaSingh25/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SamikshaSingh25/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/SamikshaSingh25/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SamikshaSingh25/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SamikshaSingh25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -183,6 +184,7 @@ This Repository was created on 18-07-2024.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2554-minimum-total-distance-traveled](https://github.com/SamikshaSingh25/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SamikshaSingh25/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SamikshaSingh25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -396,6 +398,7 @@ This Repository was created on 18-07-2024.
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SamikshaSingh25/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SamikshaSingh25/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2554-minimum-total-distance-traveled](https://github.com/SamikshaSingh25/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Shortest Path
