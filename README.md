@@ -14,6 +14,7 @@ This Repository was created on 18-07-2024.
 | [0592-fraction-addition-and-subtraction](https://github.com/SamikshaSingh25/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SamikshaSingh25/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/SamikshaSingh25/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -509,4 +510,8 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamikshaSingh25/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
