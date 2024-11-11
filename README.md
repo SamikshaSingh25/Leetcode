@@ -140,6 +140,7 @@ This Repository was created on 18-07-2024.
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SamikshaSingh25/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SamikshaSingh25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/SamikshaSingh25/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/SamikshaSingh25/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2846-robot-collisions) |
@@ -211,6 +212,7 @@ This Repository was created on 18-07-2024.
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SamikshaSingh25/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/SamikshaSingh25/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +228,7 @@ This Repository was created on 18-07-2024.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SamikshaSingh25/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SamikshaSingh25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/SamikshaSingh25/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/SamikshaSingh25/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -275,6 +278,7 @@ This Repository was created on 18-07-2024.
 | [2155-find-missing-observations](https://github.com/SamikshaSingh25/Leetcode/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/SamikshaSingh25/Leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/SamikshaSingh25/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/SamikshaSingh25/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SamikshaSingh25/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -506,6 +510,7 @@ This Repository was created on 18-07-2024.
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/SamikshaSingh25/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SamikshaSingh25/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
