@@ -8,6 +8,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0020-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/SamikshaSingh25/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/SamikshaSingh25/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0567-permutation-in-string) |
@@ -411,6 +412,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/SamikshaSingh25/Leetcode/tree/master/0650-2-keys-keyboard) |
