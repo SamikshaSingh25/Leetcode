@@ -84,6 +84,7 @@ This Repository was created on 18-07-2024.
 | [0041-first-missing-positive](https://github.com/SamikshaSingh25/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/SamikshaSingh25/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/SamikshaSingh25/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -318,6 +319,7 @@ This Repository was created on 18-07-2024.
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -346,6 +348,7 @@ This Repository was created on 18-07-2024.
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SamikshaSingh25/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamikshaSingh25/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaSingh25/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -455,6 +458,7 @@ This Repository was created on 18-07-2024.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/SamikshaSingh25/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -481,6 +485,7 @@ This Repository was created on 18-07-2024.
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaSingh25/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/SamikshaSingh25/Leetcode/tree/master/2035-count-sub-islands) |
