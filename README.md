@@ -82,6 +82,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SamikshaSingh25/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/SamikshaSingh25/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
@@ -237,6 +238,7 @@ This Repository was created on 18-07-2024.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SamikshaSingh25/Leetcode/tree/master/0670-maximum-swap) |
@@ -431,6 +433,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
