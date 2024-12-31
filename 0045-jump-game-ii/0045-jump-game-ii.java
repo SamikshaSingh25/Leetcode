@@ -14,9 +14,9 @@ class Solution {
         }
         for(int i=0;i<n;i++){
             last=Math.max(last, i+nums[i]);//neccsary coz like 2 se marege phir 3 se toh 3 se lega na
-            if(i==curr){ //
-                jumps++;
-                curr=last;
+            if(i==curr){ //jab i=0 toh curr=0; jab i=2 curr=2 (nums[2]=3)
+                jumps++; //jab i==curr,,, yani kudne ka time
+                curr=last; //jump le liya now the element has reached 2(when i=0) tha...jab nums[2]=3 hai..toh curr ko equal last..yani 4(khud dry run kar..thik likha hai)
             }
             if(curr>=n-1){ //curr me value the...but array me na rahi[iykyk ;( ...sad phase chal ra thora]
                 break;
