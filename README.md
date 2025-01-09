@@ -37,6 +37,7 @@ This Repository was created on 18-07-2024.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SamikshaSingh25/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/SamikshaSingh25/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SamikshaSingh25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/SamikshaSingh25/Leetcode/tree/master/2580-circular-sentence) |
@@ -147,6 +148,7 @@ This Repository was created on 18-07-2024.
 | [2179-most-beautiful-item-for-each-query](https://github.com/SamikshaSingh25/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SamikshaSingh25/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SamikshaSingh25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SamikshaSingh25/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -598,6 +600,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0812-rotate-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SamikshaSingh25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
