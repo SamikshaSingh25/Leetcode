@@ -16,6 +16,7 @@ This Repository was created on 18-07-2024.
 | [0664-strange-printer](https://github.com/SamikshaSingh25/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/SamikshaSingh25/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/SamikshaSingh25/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -106,6 +107,7 @@ This Repository was created on 18-07-2024.
 | [0906-walking-robot-simulation](https://github.com/SamikshaSingh25/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/SamikshaSingh25/Leetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SamikshaSingh25/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -188,6 +190,7 @@ This Repository was created on 18-07-2024.
 | [0726-number-of-atoms](https://github.com/SamikshaSingh25/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/SamikshaSingh25/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/SamikshaSingh25/Leetcode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaSingh25/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/1256-rank-transform-of-an-array) |
