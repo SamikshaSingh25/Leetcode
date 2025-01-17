@@ -177,6 +177,7 @@ This Repository was created on 18-07-2024.
 | [2716-prime-subtraction-operation](https://github.com/SamikshaSingh25/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/SamikshaSingh25/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/SamikshaSingh25/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -587,6 +588,7 @@ This Repository was created on 18-07-2024.
 | [2509-minimize-xor](https://github.com/SamikshaSingh25/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SamikshaSingh25/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/SamikshaSingh25/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SamikshaSingh25/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
