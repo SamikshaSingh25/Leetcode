@@ -112,6 +112,7 @@ This Repository was created on 18-07-2024.
 | [0952-word-subsets](https://github.com/SamikshaSingh25/Leetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SamikshaSingh25/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/SamikshaSingh25/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1196-filling-bookcase-shelves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -199,6 +200,7 @@ This Repository was created on 18-07-2024.
 | [0952-word-subsets](https://github.com/SamikshaSingh25/Leetcode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaSingh25/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/SamikshaSingh25/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaSingh25/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -353,6 +355,7 @@ This Repository was created on 18-07-2024.
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/SamikshaSingh25/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamikshaSingh25/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SamikshaSingh25/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -549,6 +552,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SamikshaSingh25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SamikshaSingh25/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/SamikshaSingh25/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1240-stone-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaSingh25/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaSingh25/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
