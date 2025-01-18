@@ -7,6 +7,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/SamikshaSingh25/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -73,6 +74,7 @@ This Repository was created on 18-07-2024.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0567-permutation-in-string) |
@@ -623,6 +625,7 @@ This Repository was created on 18-07-2024.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SamikshaSingh25/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
