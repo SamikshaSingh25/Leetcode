@@ -101,6 +101,7 @@ This Repository was created on 18-07-2024.
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/SamikshaSingh25/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SamikshaSingh25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -355,6 +356,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -432,6 +434,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SamikshaSingh25/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamikshaSingh25/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SamikshaSingh25/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -497,6 +500,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
+| [0407-trapping-rain-water-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/SamikshaSingh25/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamikshaSingh25/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
