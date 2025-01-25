@@ -189,6 +189,7 @@ This Repository was created on 18-07-2024.
 | [2792-neighboring-bitwise-xor](https://github.com/SamikshaSingh25/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SamikshaSingh25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SamikshaSingh25/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -258,6 +259,7 @@ This Repository was created on 18-07-2024.
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SamikshaSingh25/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SamikshaSingh25/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SamikshaSingh25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SamikshaSingh25/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
@@ -547,6 +549,7 @@ This Repository was created on 18-07-2024.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamikshaSingh25/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamikshaSingh25/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/SamikshaSingh25/Leetcode/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SamikshaSingh25/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Strongly Connected Component
 |  |
 | ------- |
