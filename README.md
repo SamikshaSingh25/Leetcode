@@ -107,6 +107,7 @@ This Repository was created on 18-07-2024.
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SamikshaSingh25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/SamikshaSingh25/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamikshaSingh25/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -282,6 +283,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
+| [0605-can-place-flowers](https://github.com/SamikshaSingh25/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamikshaSingh25/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamikshaSingh25/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SamikshaSingh25/Leetcode/tree/master/0670-maximum-swap) |
