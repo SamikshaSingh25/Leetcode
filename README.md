@@ -198,6 +198,7 @@ This Repository was created on 18-07-2024.
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/SamikshaSingh25/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -509,6 +510,7 @@ This Repository was created on 18-07-2024.
 | [2554-minimum-total-distance-traveled](https://github.com/SamikshaSingh25/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/SamikshaSingh25/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Shortest Path
 |  |
 | ------- |
