@@ -198,6 +198,7 @@ This Repository was created on 18-07-2024.
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/SamikshaSingh25/Leetcode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Hash Table
 |  |
@@ -388,6 +389,7 @@ This Repository was created on 18-07-2024.
 | [2472-build-a-matrix-with-conditions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamikshaSingh25/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
@@ -440,6 +442,7 @@ This Repository was created on 18-07-2024.
 | [2472-build-a-matrix-with-conditions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/SamikshaSingh25/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -466,6 +469,7 @@ This Repository was created on 18-07-2024.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SamikshaSingh25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/SamikshaSingh25/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -519,6 +523,7 @@ This Repository was created on 18-07-2024.
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SamikshaSingh25/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/SamikshaSingh25/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Breadth-First Search
 |  |
 | ------- |
