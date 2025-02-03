@@ -197,6 +197,7 @@ This Repository was created on 18-07-2024.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SamikshaSingh25/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SamikshaSingh25/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/SamikshaSingh25/Leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
