@@ -178,6 +178,7 @@ This Repository was created on 18-07-2024.
 | [2448-count-number-of-bad-pairs](https://github.com/SamikshaSingh25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamikshaSingh25/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SamikshaSingh25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SamikshaSingh25/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -239,6 +240,7 @@ This Repository was created on 18-07-2024.
 | [2163-kth-distinct-string-in-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SamikshaSingh25/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/SamikshaSingh25/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SamikshaSingh25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SamikshaSingh25/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -265,6 +267,7 @@ This Repository was created on 18-07-2024.
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SamikshaSingh25/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SamikshaSingh25/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SamikshaSingh25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/SamikshaSingh25/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SamikshaSingh25/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -479,6 +482,7 @@ This Repository was created on 18-07-2024.
 | [1304-longest-happy-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/SamikshaSingh25/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SamikshaSingh25/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SamikshaSingh25/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamikshaSingh25/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SamikshaSingh25/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/SamikshaSingh25/Leetcode/tree/master/2803-modify-graph-edge-weights) |
