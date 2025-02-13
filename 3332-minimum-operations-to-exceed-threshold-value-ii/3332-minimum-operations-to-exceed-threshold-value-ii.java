@@ -9,10 +9,10 @@ class Solution {
             pq.offer(num);
         }
         int count=0;
-        while(pq.size()>1 ){
-            if(pq.peek()>=k){
-                break;
-            }
+        while(pq.size()>1 && pq.peek()<k){
+            // if(pq.peek()>=k){
+            //     break;
+            // }
             long x=pq.poll();
             long y=pq.poll();
             long val = x*2+y;
