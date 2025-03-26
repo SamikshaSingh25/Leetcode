@@ -102,6 +102,7 @@ This Repository was created on 18-07-2024.
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SamikshaSingh25/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SamikshaSingh25/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
@@ -219,6 +220,7 @@ This Repository was created on 18-07-2024.
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SamikshaSingh25/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SamikshaSingh25/Leetcode/tree/master/0041-first-missing-positive) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -397,6 +399,7 @@ This Repository was created on 18-07-2024.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SamikshaSingh25/Leetcode/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/SamikshaSingh25/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -617,6 +620,7 @@ This Repository was created on 18-07-2024.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SamikshaSingh25/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0040-combination-sum-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SamikshaSingh25/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamikshaSingh25/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
