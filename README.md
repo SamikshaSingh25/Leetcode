@@ -540,6 +540,7 @@ This Repository was created on 18-07-2024.
 | [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/SamikshaSingh25/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SamikshaSingh25/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/SamikshaSingh25/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -660,6 +661,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0190-reverse-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/SamikshaSingh25/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaSingh25/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaSingh25/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
