@@ -486,6 +486,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/SamikshaSingh25/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -658,6 +659,7 @@ This Repository was created on 18-07-2024.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/SamikshaSingh25/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaSingh25/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaSingh25/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
