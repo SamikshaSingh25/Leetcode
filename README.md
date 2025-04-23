@@ -663,6 +663,7 @@ This Repository was created on 18-07-2024.
 | [0191-number-of-1-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/SamikshaSingh25/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/SamikshaSingh25/Leetcode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/SamikshaSingh25/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamikshaSingh25/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamikshaSingh25/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SamikshaSingh25/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
