@@ -10,6 +10,7 @@ This Repository was created on 18-07-2024.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamikshaSingh25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SamikshaSingh25/Leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/SamikshaSingh25/Leetcode/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/SamikshaSingh25/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/SamikshaSingh25/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -537,6 +538,7 @@ This Repository was created on 18-07-2024.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/SamikshaSingh25/Leetcode/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
