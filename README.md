@@ -109,6 +109,7 @@ This Repository was created on 18-07-2024.
 | [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/SamikshaSingh25/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SamikshaSingh25/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/SamikshaSingh25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/SamikshaSingh25/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -539,6 +540,7 @@ This Repository was created on 18-07-2024.
 | [0032-longest-valid-parentheses](https://github.com/SamikshaSingh25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/SamikshaSingh25/Leetcode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SamikshaSingh25/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/SamikshaSingh25/Leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/SamikshaSingh25/Leetcode/tree/master/0264-ugly-number-ii) |
